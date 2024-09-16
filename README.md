@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nina Braddock</h1>
+<h1 align="center">Hi 👋, I'm Nina</h1>
 <h3 align="center">I'm a student at the University of Vermont who's passionate about cybersecurity and front-end development!</h3>
 
 - 🔭 I’m currently working on [Knitting Nook](https://github.com/ninabraddock/kniting-nook)
